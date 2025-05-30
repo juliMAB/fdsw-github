@@ -1,5 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: black;
+  color: aliceblue;
 }
 
 /* Hero Section */
@@ -18,6 +20,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+.card-text {
+  color: black;
+}
+
+.card-title 
+{
+  color: black;
 }
 
 /* Contacto */
